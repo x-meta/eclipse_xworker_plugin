@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="XWorker Update url" url="http://www.xworker.org/plugin/update">
+      XWorker eclipse plugin
+   </description>
+   <feature url="features/org.xworker.feature_1.4.4.7.jar" id="org.xworker.feature" version="1.4.4.7">
+      <category name="XWorker_category"/>
+   </feature>
+   <category-def name="XWorker_category" label="XWorker"/>
+</site>
